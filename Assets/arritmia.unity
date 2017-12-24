@@ -2012,7 +2012,6 @@ GameObject:
   - component: {fileID: 715539799}
   - component: {fileID: 715539798}
   - component: {fileID: 715539797}
-  - component: {fileID: 715539796}
   - component: {fileID: 715539793}
   - component: {fileID: 715539792}
   - component: {fileID: 715539791}
@@ -2102,8 +2101,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 715539791}
-  selectedCommands:
-  - {fileID: 715539773}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -2326,7 +2324,6 @@ MonoBehaviour:
   - {fileID: 715539798}
   - {fileID: 715539799}
   - {fileID: 715539792}
-  - {fileID: 715539796}
   - {fileID: 715539819}
   - {fileID: 715539816}
   - {fileID: 715539817}
@@ -2673,7 +2670,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 10
   indentLevel: 0
-  storyText: "Toc\xF3 el timbre y not\xE9 como el no dejaba de mirarme de reojo."
+  storyText: "Toc\xF3 la campana y not\xE9 como \xE9l no dejaba de mirarme de reojo."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3409,24 +3406,6 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   setSayDialog: {fileID: 0}
---- !u!114 &715539796
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 715539745}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f608b8c9fb3044200aac956492d8d586, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 36
-  indentLevel: 0
-  conversationText:
-    stringRef: {fileID: 0}
-    stringVal: "Naomi: \xBFSeguimos haciendo el trabajo?\nHotaru middle: No quiero
-      que te pase nada.\nNaomi: No me va a pasar nada, asi que tranquilo. \nNaomi:
-      \xBFSeguimos con la tarea?"
 --- !u!114 &715539797
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3540,7 +3519,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 31
   indentLevel: 0
-  storyText: "Estabamos bastnate apretados, pero a Hotaru no le pareci\xF3 molestar."
+  storyText: "Estabamos bastante apretados, pero a Hotaru no le pareci\xF3 molestar."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3590,7 +3569,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 29
   indentLevel: 0
-  storyText: "Cuando llegu\xE9 con el caf\xE9 Hotary estaba hojeando los cuadernos
+  storyText: "Cuando llegu\xE9 con el caf\xE9 Hotaru estaba hojeando los cuadernos
     de mi escritorio."
   description: 
   character: {fileID: 0}
@@ -4969,7 +4948,6 @@ GameObject:
   - component: {fileID: 1195073460}
   - component: {fileID: 1195073461}
   - component: {fileID: 1195073462}
-  - component: {fileID: 1195073454}
   - component: {fileID: 1195073459}
   - component: {fileID: 1195073451}
   - component: {fileID: 1195073452}
@@ -5021,11 +4999,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -76.041245, y: -29.40206}
+  scrollPos: {x: -60.19587, y: -18.577309}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 405
-  zoom: 0.97
+  zoom: 1
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -5035,7 +5013,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1195073445}
   selectedCommands:
-  - {fileID: 1195073467}
+  - {fileID: 1195073499}
   variables: []
   description: 
   stepPause: 0
@@ -5063,7 +5041,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 178
     y: 101
-    width: 161.34021
+    width: 158
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5139,7 +5117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 18
   indentLevel: 0
-  storyText: "Le mand\xE9 un mensaje a un comp\xE0\xF1ero preguntandole la direcci\xF3n
+  storyText: "Le mand\xE9 un mensaje a un compa\xF1ero pregunt\xE1ndole la direcci\xF3n
     de Hotaru."
   description: 
   character: {fileID: 0}
@@ -5458,7 +5436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 93
   indentLevel: 0
-  storyText: "Le volv\xED a sonre\xEDr."
+  storyText: "Le sonre\xED."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5483,9 +5461,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 189
-    y: 368
-    width: 137.62886
+    x: 190
+    y: 369
+    width: 135
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5506,7 +5484,6 @@ MonoBehaviour:
   - {fileID: 1195073503}
   - {fileID: 1195073456}
   - {fileID: 1195073455}
-  - {fileID: 1195073454}
   - {fileID: 1195073468}
   - {fileID: 1195073457}
   - {fileID: 1195073467}
@@ -5716,23 +5693,6 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   setSayDialog: {fileID: 0}
---- !u!114 &1195073454
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1195073426}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f608b8c9fb3044200aac956492d8d586, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 89
-  indentLevel: 0
-  conversationText:
-    stringRef: {fileID: 0}
-    stringVal: "Hotaru middle: \xBFC\xF3mo est\xE1?\nNaomi: Est\xE1 rico.\nHotaru:
-      Primero traga la comida y luego habla."
 --- !u!114 &1195073455
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -5746,7 +5706,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 82
   indentLevel: 0
-  storyText: "Saqu\xE9 mi sandwich con jam\xF3n y queso y comenc\xF1e a comerlo."
+  storyText: "Saqu\xE9 mi sandwich con jam\xF3n y queso y comenc\xE9 a comerlo."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5786,7 +5746,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073457
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -5927,7 +5887,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 87
   indentLevel: 0
-  storyText: "Trataba de hablar lo menos posible, ya que ni yo sab\xEDa que pasaba."
+  storyText: "Trataba de hablar lo menos posible porque ni yo sab\xEDa que pasaba."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5952,7 +5912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 76
   indentLevel: 0
-  storyText: "EL hecho de haber llegado con Hotaru hizo que varias chicas se acerquen
+  storyText: "El hecho de haber llegado con Hotaru hizo que varias chicas se acerquen
     a preguntarme mi relaci\xF3n con \xE9l."
   description: 
   character: {fileID: 0}
@@ -6045,7 +6005,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1195073467
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -6070,7 +6030,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073468
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -6095,7 +6055,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073469
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -6131,7 +6091,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 64
   indentLevel: 0
-  storyText: "Me dirig\xED al na\xF1o y me saqu\xE9 la remera larga y el pantal\xF3n
+  storyText: "Me dirig\xED al ba\xF1o y me saqu\xE9 la remera larga y el pantal\xF3n
     que me prest\xF3 Hotaru."
   description: 
   character: {fileID: 0}
@@ -6332,7 +6292,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 193
     y: 294
-    width: 126.28866
+    width: 124
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6474,7 +6434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 45
   indentLevel: 0
-  storyText: "Me pidi\xF3 que me pase la noche con \xE9l y no pude decirle que no."
+  storyText: "Me pidi\xF3 que pase la noche con \xE9l y no pude decirle que no."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6499,7 +6459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 44
   indentLevel: 0
-  storyText: "Avis\xE9 a mi madre porque sab\xEDa que mi viejo me iba a decir que
+  storyText: "Avis\xE9 a mi madre porque sab\xEDa que mi padre me iba a decir que
     no."
   description: 
   character: {fileID: 0}
@@ -6550,7 +6510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 42
   indentLevel: 0
-  storyText: "Dormimos en la misma cama. No pas\xF3 nada, s\xF3lo nos abrazamos."
+  storyText: "Dormimos en la misma cama. No hicimos nada, s\xF3lo nos abrazamos."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6770,7 +6730,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073495
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -6808,7 +6768,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 196
     y: 204
-    width: 123.19588
+    width: 121
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6982,7 +6942,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073503
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7007,7 +6967,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073504
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7033,7 +6993,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073505
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7058,7 +7018,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073506
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7083,7 +7043,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073507
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7108,7 +7068,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073508
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7133,7 +7093,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073509
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7158,7 +7118,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073510
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7183,7 +7143,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073511
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7208,7 +7168,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073512
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7233,7 +7193,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073513
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7258,7 +7218,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073514
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7283,7 +7243,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073515
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7308,7 +7268,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073516
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7333,7 +7293,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1195073517
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1195073426}
@@ -7475,7 +7435,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1200550236}
   selectedCommands:
-  - {fileID: 1200550229}
+  - {fileID: 1200550237}
   variables: []
   description: 
   stepPause: 0
@@ -7708,7 +7668,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550229
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -7962,7 +7922,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550238
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -7987,7 +7947,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550239
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -8023,7 +7983,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 43
   indentLevel: 0
-  storyText: Mis padres entraron al cuarto con la comida al rato.
+  storyText: Luego de un rato, mis padres entraron al cuarto con la comida.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8885,7 +8845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: "Una vez que me dieron el alta el d\xEDa sigueinte mis padres me llevaron
+  storyText: "Una vez que me dieron el alta el d\xEDa siguiente mis padres me llevaron
     a mi casa."
   description: 
   character: {fileID: 0}
@@ -9032,7 +8992,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1200550281
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9057,7 +9017,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550282
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9082,7 +9042,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550283
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9107,7 +9067,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550284
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9132,7 +9092,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550285
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9157,7 +9117,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550286
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9182,7 +9142,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550287
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9207,7 +9167,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550288
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9232,7 +9192,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550289
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9257,7 +9217,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550290
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9282,7 +9242,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550291
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9307,7 +9267,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550292
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9332,7 +9292,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550293
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9357,7 +9317,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550294
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9382,7 +9342,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550295
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9407,7 +9367,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550296
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9432,7 +9392,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1200550297
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1200550219}
@@ -9679,11 +9639,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -14.17047, y: 92.15339}
+  scrollPos: {x: -55.313286, y: 73.56}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.9100001
+  zoom: 1
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -9907,7 +9867,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125540
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -9957,7 +9917,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125542
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -10007,7 +9967,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125544
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -10120,7 +10080,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 212
     y: 88
-    width: 130.21977
+    width: 124
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10198,7 +10158,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 191
     y: 152.93617
-    width: 178.57141
+    width: 168
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10443,7 +10403,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: "\xBFEn serio? \xA1QUe bueno!"
+  storyText: "\xBFEn serio? \xA1Que bueno!"
   description: 
   character: {fileID: 1054886409}
   portrait: {fileID: 0}
@@ -10468,8 +10428,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  storyText: "Hotaru se nos qued\xF3 viendo por unos segundos, se dio vuelta y se
-    puso a hablar con otros compa\xF1eros."
+  storyText: "Hotaru se qued\xF3 mir\xE1ndonos por unos segundos, se dio vuelta y
+    se puso a hablar con otros compa\xF1eros."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -10648,7 +10608,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: "Le pas\xE9 mi n\xFAmero y justo entraron mis padres."
+  storyText: "Luego de pasarle mi n\xFAmero, entraron mis padres."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -10698,7 +10658,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 15
   indentLevel: 0
-  storyText: Nos quedamos en silencio.
+  storyText: '...'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -10798,7 +10758,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 0
-  storyText: Silencio
+  storyText: '...'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11028,7 +10988,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: "A los pocos d\xEDas de volver al colegio, me volv\xED a desmayar"
+  storyText: "A los pocos d\xEDas de volver al colegio, me volv\xED a desmayar."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11495,7 +11455,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125602
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11520,7 +11480,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125603
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11545,7 +11505,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125604
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11570,7 +11530,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125605
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11595,7 +11555,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125606
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11620,7 +11580,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125607
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11645,7 +11605,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125608
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11670,7 +11630,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125609
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11681,7 +11641,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 76
   indentLevel: 0
-  storyText: "S\xED les preocup\xF3, y se asustaron cuando me duagnosticaron arritmia.\r"
+  storyText: "S\xED les preocup\xF3, y se asustaron cuando me diagnosticaron arritmia.\r"
   description: 
   character: {fileID: 982496358}
   portrait: {fileID: 0}
@@ -11695,7 +11655,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125610
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11720,7 +11680,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125611
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11745,7 +11705,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125612
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -11770,7 +11730,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1254125613
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254125531}
@@ -12111,7 +12071,6 @@ GameObject:
   - component: {fileID: 1447331729}
   - component: {fileID: 1447331730}
   - component: {fileID: 1447331732}
-  - component: {fileID: 1447331731}
   - component: {fileID: 1447331735}
   - component: {fileID: 1447331725}
   - component: {fileID: 1447331724}
@@ -12165,7 +12124,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1447331723}
   selectedCommands:
-  - {fileID: 1447331726}
+  - {fileID: 1447331722}
   variables: []
   description: 
   stepPause: 0
@@ -12217,12 +12176,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 208.03093
     y: 180
-    width: 150
+    width: 142.78351
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 17
-  blockName: Hotaru preceptor
+  blockName: Hotaru profesor
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -12231,7 +12190,6 @@ MonoBehaviour:
   - {fileID: 1447331757}
   - {fileID: 1447331756}
   - {fileID: 1447331732}
-  - {fileID: 1447331731}
   - {fileID: 1447331755}
   - {fileID: 1447331754}
   - {fileID: 1447331726}
@@ -12291,7 +12249,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1447331726
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1447331720}
@@ -12403,7 +12361,7 @@ MonoBehaviour:
   itemId: 25
   indentLevel: 0
   storyText: "Se escuch\xF3 al profesor llamando desde fuera del aula a Hotaru. Hotaru
-    me ssolt\xF3 y fue con \xE9l hacia direcci\xF3n."
+    me solt\xF3 y fue con \xE9l hacia direcci\xF3n. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -12415,23 +12373,6 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   setSayDialog: {fileID: 0}
---- !u!114 &1447331731
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1447331720}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f608b8c9fb3044200aac956492d8d586, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 30
-  indentLevel: 0
-  conversationText:
-    stringRef: {fileID: 0}
-    stringVal: "Naomi: Hotaru, no, estamos en el colegio.\nHotaru: \xBFAlg\xFAn problema?\nNaomi:
-      Hotaru..."
 --- !u!114 &1447331732
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -12672,7 +12613,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: "Cuando vi hacia el pizzar\xF3n, not\xE9 como Hotary se acercaba hac\xEDa
+  storyText: "Cuando vi hacia el pizzar\xF3n, not\xE9 como Hotaru se acercaba hac\xEDa
     m\xED."
   description: 
   character: {fileID: 0}
@@ -12994,7 +12935,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1447331754
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1447331720}
@@ -13019,7 +12960,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1447331755
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1447331720}
@@ -13044,7 +12985,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1447331756
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1447331720}
@@ -13069,7 +13010,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1447331757
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1447331720}
@@ -14536,11 +14477,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 94.906906, y: -113.98836}
+  scrollPos: {x: 0.19085693, y: -230.71666}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 403
-  zoom: 0.97
+  zoom: 0.94000006
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -14550,7 +14491,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 2009057801}
   selectedCommands:
-  - {fileID: 2009057786}
+  - {fileID: 2009057822}
   variables: []
   description: 
   stepPause: 0
@@ -14602,7 +14543,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 130.78357
     y: 141.62897
-    width: 123.19588
+    width: 122.34042
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14856,7 +14797,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 123.6472
     y: 227.62897
-    width: 136.59793
+    width: 137.23404
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15217,7 +15158,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 47
   indentLevel: 0
-  storyText: "Toc\xF3 el timbre y cada una se sent\xF3 en su lugar."
+  storyText: "Toc\xF3 la campana y cada una se sent\xF3 en su lugar."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15741,7 +15682,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 122.354996
     y: 306.77185
-    width: 141.75256
+    width: 140.42554
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15800,7 +15741,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 119.15329
     y: 445.13483
-    width: 152.06186
+    width: 154.25531
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15974,7 +15915,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: Me esperaba preguntas.
+  storyText: Me esperaban preguntas.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -16302,7 +16243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 74
   indentLevel: 0
-  storyText: "Silencio inc\xF3mdo. Genial."
+  storyText: '...'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -16962,7 +16903,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 92
   indentLevel: 0
-  storyText: Bueno, las dejo tranquilas
+  storyText: Bueno, las dejo tranquilas.
   description: 
   character: {fileID: 34335462}
   portrait: {fileID: 0}
@@ -17062,7 +17003,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 88
   indentLevel: 0
-  storyText: Que clase de mierda.
+  storyText: "Que clase m\xE1s aburrida."
   description: 
   character: {fileID: 1054886409}
   portrait: {fileID: 0}
