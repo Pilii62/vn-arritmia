@@ -1,36 +1,71 @@
 Key,Description,Standard
 SAY.F3.3.Yuna,,Naomi?
-SAY.F3.6.,,Aparecidió detrás de mí.
+SAY.F3.6.,,Apareció detrás de mí.
+SAY.F3.65.Yuna,,¿Cómo te fue en la cita?
+SAY.F3.69.Naomi,,No fue una cita.
+SAY.F3.68.Yuna,,"Ag, bueno. Reformulo."
+SAY.F3.67.Yuna,,¿Cómo te fue con Hotaru?
+SAY.F3.66.Naomi,,Bien.
 SAY.F3.5.,,"Sonreí, no pudiendo evitar pensar en el mensaje de anoche."
 SAY.F3.4.Yuna,,Yo creo que fue más que bien.
 SAY.F3.8.Naomi,,Cállate.
 SAY.F3.11.,,"Vi como Hotaru se acercaba a mí, la miré a Yuna quien con una sonrisa se fue."
-SAY.F3.10.,,"Tocó el timbre y noté como el no dejaba de mirarme de reojo,"
+SAY.F3.70.Hotaru,,La pasé muy bien ayer.
+SAY.F3.73.Naomi,,Yo también.
+SAY.F3.72.Hotaru,,Habría que repetirlo.
+SAY.F3.10.,,Tocó la campana y noté como él no dejaba de mirarme de reojo.
 SAY.F3.19.,,En la clase nos dieron un trabajo para hacer en parejas.
 SAY.F3.20.,,El profesor fue quién eligió las parejas.
 SAY.F3.24.,,Me tocó con Hotaru.
+SAY.F3.74.Hotaru,,¿Dónde nos jutamos para el trabajo?
+SAY.F3.76.Naomi,,Si quieres en mi casa.
+SAY.F3.75.Hotaru,,Okay.
+SAY.F3.77.Hotaru,,Linda habitación.
+SAY.F3.78.Naomi,,Gracias.
 SAY.F3.28.,,Traje otra silla y nos sentamos en el escritorio.
-SAY.F3.31.,,"Estabamos bastnate apretados, pero a Hotaru no le pareció molestar."
+SAY.F3.31.,,"Estabamos bastante apretados, pero a Hotaru no le pareció molestar."
 SAY.F3.30.,,Luego de un rato pudimos terminar el primer ejercicio.
-SAY.F3.29.,,Cuando llegué con el café Hotary estaba hojeando los cuadernos de mi escritorio.
+SAY.F3.79.Hotaru,,No vamos a terminar nunca el trabajo.
+SAY.F3.83.Naomi,,"No seas así, son 4 puntos, ya hicimos 1."
+SAY.F3.82.Hotaru,,"Repito, no vamos a terminar nunca."
+SAY.F3.81.Naomi,,¿Quieres un café y descansamos?
+SAY.F3.80.Hotaru,,Claro.
+SAY.F3.29.,,Cuando llegué con el café Hotaru estaba hojeando los cuadernos de mi escritorio.
+SAY.F3.84.Naomi,,¿Encontraste algo interesante?
+SAY.F3.87.Hotaru,,¡Me asusté!
+SAY.F3.86.Naomi,,"Jaja, perdón."
+SAY.F3.85.Hotaru,,No pasa nada.
 SAY.F3.35.,,Me senté a su lado y le di su café. Yo iba a tomar agua.
+SAY.F3.88.Hotaru,,Leí en internet que no puedes tomar café.
+SAY.F3.89.Naomi,,"Ni café, ni chocolates y la lista sigue."
 SAY.F3.34.,,"Aunque lo dije sonriendo, Hotaru no se lo tomó como una broma."
 SAY.F3.33.Naomi,,No es tan malo.
 SAY.F3.41.,,"No importaba que sonriera y haga chistes, Hotaru no dejaba de verme preocupado."
+SAY.F3.90.Naomi,,¿Seguimos haciendo el trabajo?
+SAY.F3.93.Hotaru,,No quiero que te pase nada.
+SAY.F3.92.Naomi,,"No me va a pasar nada, asi que tranquilo. "
+SAY.F3.91.Naomi,,¿Seguimos con la tarea?
 SAY.F3.40.,,El simplemente asintió.
 SAY.F3.44.,,Seguimos haciendo el trabajo pero podía notar como Hotaru seguía triste.
+SAY.F3.94.Hotaru,,"Listo, ya terminamos."
+SAY.F3.96.Naomi,,No fue tan malo.
+SAY.F3.95.Hotaru,,"No, no lo fue."
 SAY.F3.52.Madre,,¡Naomi! ¿Tu amigo se queda a cenar?
 SAY.F3.51.,,Mi madre me hablaba desde la cocina.
 SAY.F3.50.,,Lo miré a Hotaru y él dijo que sí con la cabeza.
 SAY.F3.49.Naomi,,"¡Sí, se queda!"
 SAY.F3.57.,,Terminamos de arreglar algunas cosas del trabajo.
 SAY.F3.56.,,"Al cabo de un rato, vino mi madre con la comida, la dejó al lado nuestro y se fue con una sonrisa."
-SAY.F3.62.,,COmenzamos a comer en el escritorio en silencio.
+SAY.F3.62.,,Comenzamos a comer en el escritorio en silencio.
 SAY.F3.61.,,"Yo seguía buscando errores para que el trabajo estara bien, cuando sentí la mano de Hotaru en la pierna."
 SAY.F3.60.,,Tragé la comida y lo miré.
 SAY.F3.59.,,Me estaba mirando a los ojos fijamente y lentamente se empezó a acercar.
 SAY.F3.58.,,"Cuando sus labios tocaron los mios, noté que estaba demasiado sonrojada. "
 SAY.F3.55.,,Al separarse de mí y ver mi expresión comenzó a sonreír.
+SAY.F3.97.Hotaru,,Estás colorada.
+SAY.F3.100.Naomi,,Cállate.
+SAY.F3.99.Hotaru,,Sos muy tierna.
+SAY.F3.98.Naomi,,Te voy a pegar.
 SAY.F3.54.,,Hotaru me dio otro beso pero mas corto y sigió comiendo.
 SAY.F5.1.,,"Al día siguiente, Hotaru no apareció."
 SAY.F5.11.,,Me estaba empezando a preocupar.
@@ -42,7 +77,7 @@ SAY.F5.6.,,Trataba de pensar positivamente para no alterarme demasiado.
 SAY.F5.5.,,"Al salir del cuarto me choqué con la enfermera, quien me saludó con una sonrisa."
 SAY.F5.20.,,Me dijo que la madre de Hotaru había muerto.
 SAY.F5.19.,,Sentí como me empezaba a marear y me hizo sentarme.
-SAY.F5.18.,,Le mandé un mensaje a un compàñero preguntandole la dirección de Hotaru.
+SAY.F5.18.,,Le mandé un mensaje a un compañero preguntándole la dirección de Hotaru.
 SAY.F5.17.,,Una vez que me contestó tomé un taxi y fui para allá.
 SAY.F5.30.,,Toqué el timbre y el padre de Hotaru me dejó pasar al cuarto de Hotaru.
 SAY.F5.36.,,"Cuando Hotaru me abrió la puerta, tuve la necesidad de abrazarlo."
@@ -54,27 +89,47 @@ SAY.F5.39.Naomi,,¿Me abrazas?
 SAY.F5.50.,,Pude sentir como de a poco me rodeaba con sus brazos hasta abrazarme.
 SAY.F5.49.,,"Cuando apreté un poco con los brazos, él me abrazó mucho más fuerte."
 SAY.F5.48.,,Pude sentir como lloraba contra mi hombro en silencio por el movimiento de sus hombros.
+SAY.F5.104.Hotaru,,Naomi...
+SAY.F5.109.Naomi,,¿Quieres que te deje solo?
+SAY.F5.108.Hotaru,,No. Quédate.
+SAY.F5.107.Naomi,,¿Cómo puedo ayudarte?
+SAY.F5.106.Hotaru,,"Sólo quédate, no te vayas."
+SAY.F5.105.Naomi,,No me voy a ir.
 SAY.F5.46.,,Se apoyó en mi hombro y nos quedamos en silencio.
-SAY.F5.45.,,Me pidió que me pase la noche con él y no pude decirle que no.
-SAY.F5.44.,,Avisé a mi madre porque sabía que mi viejo me iba a decir que no.
+SAY.F5.45.,,Me pidió que pase la noche con él y no pude decirle que no.
+SAY.F5.44.,,Avisé a mi madre porque sabía que mi padre me iba a decir que no.
 SAY.F5.43.,,"Nos fuimos a dormir sin cenar, ya que ninguno de los dos tenía hambre."
-SAY.F5.42.,,"Dormimos en la misma cama. No pasó nada, sólo nos abrazamos."
+SAY.F5.42.,,"Dormimos en la misma cama. No hicimos nada, sólo nos abrazamos."
 SAY.F5.53.,,"Al día siguiente nos despertamos por la alarma, pero él no se levantó."
-SAY.F5.64.,,Me dirigí al naño y me saqué la remera larga y el pantalón que me prestó Hotaru.
+SAY.F5.64.,,Me dirigí al baño y me saqué la remera larga y el pantalón que me prestó Hotaru.
 SAY.F5.63.,,"Me puse mi uniforme y al llegar a la habitación, Hotaru ya estaba vestido."
+SAY.F5.110.Hotaru,,Buen día.
+SAY.F5.112.Naomi,,¿Vas a ir al colegio?
+SAY.F5.111.Hotaru,,No puedo faltar toda mi vida.
 SAY.F5.62.,,Desayunamos juntos y nos dirigimos al colegio.
 SAY.F5.61.,,Al entrar algunos amigos de Hotaru y Yuna nos miraron.
 SAY.F5.60.,,"Hotaru me saludó, se fue y yo me senté en mi lugar mirando como Yuna se acercaba a mí."
+SAY.F5.113.Yuna,,¿Por que llegaste con Hotaru?
+SAY.F5.114.Naomi,,Me quedé a dormir.
 SAY.F5.59.,,Me guiñó un ojo.
-SAY.F5.76.,,EL hecho de haber llegado con Hotaru hizo que varias chicas se acerquen a preguntarme mi relación con él.
-SAY.F5.87.,,"Trataba de hablar lo menos posible, ya que ni yo sabía que pasaba."
+SAY.F5.115.Yuna,,¿Hicieron algo? 
+SAY.F5.116.Naomi,,¡Cállate!
+SAY.F5.76.,,El hecho de haber llegado con Hotaru hizo que varias chicas se acerquen a preguntarme mi relación con él.
+SAY.F5.87.,,Trataba de hablar lo menos posible porque ni yo sabía que pasaba.
 SAY.F5.86.,,En el recreo del almuerzo me quedé en el aula mientras Yuna iba a comprar la comida.
 SAY.F5.85.Hotaru,,Hola.
 SAY.F5.84.,,Hotaru se sentó en frente mío y apoyó un brazo en mi banco.
+SAY.F5.117.Hotaru,,Los chicos no dejan de preguntarme por qué falté y por qué llegué con vos.
+SAY.F5.120.Naomi,,¿Qué les dijiste?
+SAY.F5.119.Hotaru,,Que me sentía mal y que fuiste a hacerme compañía.
+SAY.F5.118.Hotaru,,No quería hablar sobre eso...
 SAY.F5.83.,,Miró al piso y luego de unos segundos comenzó a comer un sandwich que había preparado en su casa.
-SAY.F5.82.,,Saqué mi sandwich con jamón y queso y comencñe a comerlo.
+SAY.F5.82.,,Saqué mi sandwich con jamón y queso y comencé a comerlo.
+SAY.F5.121.Hotaru,,¿Cómo está?
+SAY.F5.123.Naomi,,Está rico.
+SAY.F5.122.Hotaru,,Primero traga la comida y luego habla.
 SAY.F5.80.,,Tragué y me pasé la lengua entre los dientes.
-SAY.F5.93.,,Le volví a sonreír.
+SAY.F5.93.,,Le sonreí.
 SAY.F5.92.Hotaru,,Ahí mejor.
 SAY.F5.91.,,Dejó de sonreír pero no apartó la vista de mí.
 SAY.F5.98.,,Me acarició el brazo y luego mi mejilla.
@@ -85,6 +140,13 @@ SAY.F5.78.,,Me alejé y mordí el sandwich.
 SAY.F5.100.,,"Hotaru se me quedó viendo, se dio la vuelta y se fue del aula."
 SAY.F6.5.,,Después de eso Hotaru evitaba hablarme y mirarme.
 SAY.F6.17.,,Al día siguiente me acerqué a él en el último recreo.
+SAY.F6.74.Naomi,,¿Pasa algo?
+SAY.F6.81.Hotaru,,"No, ¿por?"
+SAY.F6.80.Naomi,,No me hablas.
+SAY.F6.79.Naomi,,¿Hice algo mal?
+SAY.F6.78.Hotaru,,Por lo visto no quieres besarme en público.
+SAY.F6.77.Naomi,,No es eso.
+SAY.F6.76.Hotaru,,¿Entonces por qué es?
 SAY.F6.16.,,Me quedé callada.
 SAY.F6.15.,,"Cuando Hotaru se dio vuelta, lo agarré del brazo."
 SAY.F6.14.,,Hotaru se dio vuelta sorprendido.
@@ -110,72 +172,133 @@ SAY.F6.53.,,Pude emitir un sonido para tranquilizarlo y volví a cerrar los ojos
 SAY.F6.52.,,Me dolía la cabeza con solo tener los ojos abiertos.
 SAY.F6.57.,,Luego de un rato los abrí
 SAY.F6.56.,,"Hotaru seguía ahí, agarrándome la mano."
+SAY.F6.82.Hotaru,,El médico nos dijo que tu corazón se detuvo por el susto.
+SAY.F6.86.Naomi,,¿Y el auto?
+SAY.F6.85.Hotaru,,"Ni te tocó, fue el susto el que hizo que te desmayaras."
+SAY.F6.84.Naomi,,¿Y mis padres?
+SAY.F6.83.Hotaru,,Fueron a hablar con el médico y luego iban a comprar comida.
 SAY.F6.55.,,Me acomodé en la cama y le apreté la mano.
 SAY.F6.51.,,"Él me sonrío, pero podía notar ojeras en su cara."
+SAY.F6.87.Naomi,,¿Qué hora es?
+SAY.F6.94.Hotaru,,2 am.
+SAY.F6.93.Naomi,,Deberías dormir.
+SAY.F6.92.Hotaru,,No quería dejarte. 
+SAY.F6.91.Hotaru,,No quería perderte.
+SAY.F6.90.Naomi,,No me vas a perder.
+SAY.F6.89.Hotaru,,No quiero que pase lo mismo que con...
+SAY.F6.88.Naomi,,No te voy a dejar.
 SAY.F6.61.,,Se acercó a mí y me dio un beso en la frente.
 SAY.F6.60.,,Se quedó a unos centrímetros de mi cara.
 SAY.F6.59.Naomi,,No puedo besarte si no te acercas.
 SAY.F6.58.,,Sonrió levemente y me dio un beso corto.
-SAY.F6.43.,,Mis padres entraron al cuarto con la comida al rato.
+SAY.F6.43.,,"Luego de un rato, mis padres entraron al cuarto con la comida."
 SAY.F6.63.,,"Luego de comer, Hotaru se fue dandome antes un beso en la frente."
-SAY.F6.62.,,Una vez que me dieron el alta el día sigueinte mis padres me llevaron a mi casa.
+SAY.F6.62.,,Una vez que me dieron el alta el día siguiente mis padres me llevaron a mi casa.
 SAY.F6.66.,,Subi a mi cuarto y estaba Hotaru con unas flores rojas.
 SAY.F6.65.,,Se acercó a mí y me las dio.
 SAY.F6.64.,,Luego de sonreírle las deje en el escritorio y lo abracé.
 SAY.F6.67.,,Él me devolvió el abrazo.
 SAY.F6.68.Hotaru,,No me abandones
 SAY.F6.69.Naomi,,No lo haré
-SAY.F2.1.,,"A los pocos días de volver al colegio, me volví a desmayar"
+SAY.F2.1.,,"A los pocos días de volver al colegio, me volví a desmayar."
 SAY.F2.5.,,Sólo recuerdo estar en un examen.\n
 SAY.F2.4.,,"Y a los pocos minutos de empezar, me empecé a sentir mal.\n"
-SAY.F2.3.,,Lo suficiente como para caerme y llevarme al hospital.\n
+SAY.F2.3.,,Lo suficiente como para caerme y tener que llevarme al hospital.\n
 SAY.F2.2.,,El médico dijo que debe haber sido por el estrés del examen. \n
 SAY.F2.8.,,"Él les explicó eso a mis padres, quienes fueron a buscar algo para comer.\n"
 SAY.F2.7.,,"Al rato de que hayan salido de la habitación, entró Hotaru."
-SAY.F2.6.,,Silencio
+SAY.F2.54.Hotaru,,¿Estás bien?
+SAY.F2.57.Naomi,,"Estoy bien, según el médico fue por el estrés."
+SAY.F2.56.Hotaru,,¿Segura que estás bien?
+SAY.F2.55.Naomi,,"Estoy bien, en serio."
+SAY.F2.6.,,...
 SAY.F2.10.,,Hotaru no dejaba de ver a la mujer que estaba acostada al lado mío.
 SAY.F2.12.,,Entonces me animé a preguntarle.
-SAY.F2.15.,,Nos quedamos en silencio.
-SAY.F2.16.,,Le pasé mi número y justo entraron mis padres.
+SAY.F2.58.Naomi,,¿Es tu madre?
+SAY.F2.64.Hotaru,,¿Cómo lo sabes?
+SAY.F2.63.Naomi,,Me dijo la enfermera.
+SAY.F2.62.Hotaru,,¿Entonces por qué me preguntaste el otro día por qué estaba en el hospital?
+SAY.F2.61.Naomi,,Supongo que quería confirmarlo.
+SAY.F2.60.Hotaru,,"Sí, es mi madre. Está en coma."
+SAY.F2.59.Hotaru,,Accidente de auto.
+SAY.F2.15.,,...
+SAY.F2.65.Hotaru,,¿Cuándo sales del hospital?
+SAY.F2.68.Naomi,,Supuestamente mañana.
+SAY.F2.67.Hotaru,,Te invito a la plaza mañana.
+SAY.F2.66.Hotaru,,Pásame tu número... para comunicarnos.
+SAY.F2.16.,,"Luego de pasarle mi número, entraron mis padres."
 SAY.F2.14.,,Mi padre y él cruzaron miradas mientras mi madre le sonreía.
 SAY.F2.13.,,Mi madre no dejó de sonreírme después de eso.
 SAY.F2.19.,,Ya sabía cuál era el motivo de sus próximas bromas.
 SAY.F2.22.,,"Al día siguiente, Hotaru me saludó con la mano."
-SAY.F2.24.,,Estaba a punto de acercarme cuando Yuna se tiró encima mío
-SAY.F2.23.,,"Hotaru se nos quedó viendo por unos segunods, se dio vuelta y se puso a hablar con otros compañeros"
+SAY.F2.24.,,Estaba a punto de acercarme cuando Yuna se tiró encima mío.
+SAY.F2.23.,,"Hotaru se quedó mirándonos por unos segundos, se dio vuelta y se puso a hablar con otros compañeros."
+SAY.F2.69.Yuna,,¿Cómo va todo con el nuevo?
+SAY.F2.71.Naomi,,Hoy vamos a ir a la plaza.
+SAY.F2.70.Yuna,,¿En serio? ¡Que bueno!
 SAY.F2.26.,,Yuna me sonrió y empezó la clase.
 SAY.F2.31.,,"Cuando tocó el timbre para irnos, Hotaru se acercó a mí."
 SAY.F2.33.Hotaru,,¿Vamos?
 SAY.F2.32.Naomi,,Claro.
 SAY.F2.38.,,"Una vez llegamos a la plaza, nos sentamos en un banco. "
+SAY.F2.72.Hotaru,,Me dio miedo tu padre ayer.
+SAY.F2.79.Naomi,,Ignóralo.
+SAY.F2.78.Hotaru,,Por lo menos tu madre me sonrió.
+SAY.F2.77.Hotaru,,¿Cómo llevan tus padres tu enfermedad?
+SAY.F2.76.Naomi,,"Sí les preocupó, y se asustaron cuando me diagnosticaron arritmia."
+SAY.F2.75.Hotaru,,Tiene sentido.
+SAY.F2.74.Hotaru,,Yo también me preocuparía.
+SAY.F2.73.Naomi,,¿Te está gustando el colegio?
 SAY.F2.40.,,Quise cambiar de tema para que se deje de preocupar por mí.
+SAY.F2.81.Hotaru,,"Sí, está bueno."
 SAY.F2.39.,,Hablamos de diferentes temas hasta que se hizo tarde.
+SAY.F2.82.Naomi,,Debería ir volviendo a casa.
+SAY.F2.88.Hotaru,,¿Dónde vives?
+SAY.F2.87.Naomi,,A unas cuadras de aquí.
+SAY.F2.85.Hotaru,,Te acompaño.
+SAY.F2.84.Naomi,,No hace falta.
+SAY.F2.83.Hotaru,,"Te acompaño, no tengo problema."
 SAY.F2.44.,,Me acompaño hasta mi casa y llegué a mi cuarto.
 SAY.F2.45.,,Me acosté y algo llamó mi atención.
 SAY.F2.46.,,Vi un nuevo mensaje en el celular.
-SAY.F2.47.,,"''Que descanses,\nHotaru''"
+SAY.F2.47.,,"''Que descanses, \nHotaru''"
 SAY.F4.1.,,"Luego del beso, me costaba mirar a Hotaru a la cara."
 SAY.F4.10.,,"Cada vez que lo veía, sentía como mi cara se ponía roja."
-SAY.F4.9.,,"Cuando vi hacia el pizzarón, noté como Hotary se acercaba hacía mí."
+SAY.F4.34.Yuna,,¿Naomi?
+SAY.F4.41.Naomi,,¿Eh?
+SAY.F4.40.Yuna,,Te estaba hablando.
+SAY.F4.39.Yuna,,¿Qué estás pensando?
+SAY.F4.38.Naomi,,No dormí bien.
+SAY.F4.37.Naomi,,¿De qué me hablabas?
+SAY.F4.36.Yuna,,Sobre mi compañero de trabajo.
+SAY.F4.35.Yuna,,"Era insoportable, no hacía nada."
+SAY.F4.9.,,"Cuando vi hacia el pizzarón, noté como Hotaru se acercaba hacía mí."
 SAY.F4.8.,,Me llamó con la mano.
+SAY.F4.42.Naomi,,Me tengo que ir.
+SAY.F4.44.Naomi,,Hablamos en el próximo recreo.
+SAY.F4.43.Yuna,,Okay...
 SAY.F4.19.,,"Me acerqué donde estaba él, justo al lado de la puerta del aula."
+SAY.F4.45.Hotaru,,"Hola, Naomi."
+SAY.F4.46.Naomi,,Hola.
 SAY.F4.26.,,Hotaru estiró el brazo y me lo puso alrededor de la cintura.
-SAY.F4.25.,,Se escuchó al profesor llamando desde fuera del aula a Hotaru. Hotaru me ssoltó y fue con él hacia dirección.
+SAY.F4.47.Naomi,,"Hotaru, no, estamos en el colegio."
+SAY.F4.49.Hotaru,,¿Algún problema?
+SAY.F4.48.Naomi,,Hotaru...
+SAY.F4.25.,,Se escuchó al profesor llamando desde fuera del aula a Hotaru. Hotaru me soltó y fue con él hacia dirección. 
 SAY.F4.24.,,Yo volví a sentarme en el banco.
 SAY.F4.23.,,¿Por qúe lo habrán llamado?
 SAY.F1.4.,,Arritmia.\n\n
 SAY.F1.5.,,Una enfermedad donde se acelera o baja la frecuencia del latido del corazón.\n\n
 SAY.F1.9.,,En mi caso sube la frecuencia.\n
 SAY.F1.8.,,La arritmia apareció por los seguidos desmayos que tuve.
-SAY.F1.7.,,Por eso ahora estoy internada en el hospital .\n
+SAY.F1.7.,,Por eso ahora estoy internada en el hospital.\n
 SAY.F1.6.,,Hoy por suerte me dan el alta luego de varios días.\n
 SAY.F1.12.???,,"Hola, ma. Espero que estés mejor.\n"
-SAY.F1.15.,,La voz venia de detrás de la cortina que me separaba del otro paciente.\n
+SAY.F1.15.,,La voz venía de detrás de la cortina que me separaba del otro paciente.\n
 SAY.F1.14.???,,Te traje otras flores. Espero que te gusten.\n
 SAY.F1.16.,,No era la primera vez que escuchaba esa voz.
-SAY.F1.17.,,Y que de vez en cuando venía su hijo a visitarla.
 SAY.F1.19.,,La enfermera me contó que la mujer que estaba al lado mío estaba en coma.
-SAY.F1.18.,,Y que de vez en cuando venía su hijo a visitarla.
+SAY.F1.17.,,Y que de vez en cuando venía su hijo a visitarla.
 SAY.F1.21.,,Me levanté para ir al baño y ahí lo vi.
 SAY.F1.25.???,,Buen día.
 SAY.F1.28.,,Saludé con la mano y me metí al baño.
@@ -192,19 +315,42 @@ SAY.F1.38.Yuna,,¿Cómo estás? ¿Estás mejor?
 SAY.F1.44.Naomi,,"Sí, me dieron medicamentos para la arritmia."
 SAY.F1.49.Yuna,,"Mh, okay, espero que te mejores."
 SAY.F1.48.Naomi,,Gracias!
-SAY.F1.47.,,Tocó el timbre y cada una se sentó en su lugar.
+SAY.F1.47.,,Tocó la campana y cada una se sentó en su lugar.
 SAY.F1.46.,,"Vi entrar al chico del hospital, Hotaru"
 SAY.F1.45.,,Me saludó con la mano y se sentó
+SAY.F1.88.Yuna,,Que clase más aburrida.
+SAY.F1.90.Naomi,,No fue tan mala.
+SAY.F1.89.Hotaru,,"Hola, Naomi"
 SAY.F1.61.,,Yuna me miraba con una sonrisa.
-SAY.F1.62.,,Me esperaba preguntas.
+SAY.F1.62.,,Me esperaban preguntas.
+SAY.F1.91.Naomi,,Hola.
+SAY.F1.93.Hotaru,,No pensé que te iba a encontrar aquí. 
+SAY.F1.92.Hotaru,,"Bueno, las dejo tranquilas."
 SAY.F1.66.,,Nos depedimos y Yuna seguía con una sonrisa.
+SAY.F1.95.Yuna,,No te imaginé con el nuevo.
+SAY.F1.94.Naomi,,Cállate.
 SAY.F1.73.,,Al final de la última clase Hotaru se acercó a mí.
 SAY.F1.76.Hotaru,,Hola.
 SAY.F1.75.Naomi,,Hola.
-SAY.F1.74.,,Silencio incómdo. Genial.
+SAY.F1.74.,,...
+SAY.F1.100.Hotaru,,Eh... Sólo quería preguntarte algo.
+SAY.F1.99.Naomi,,"Claro, pregunta."
+SAY.F1.98.Hotaru,,¿Por qué estabas en el hospital?
+SAY.F1.97.Hotaru,,Si no me quieres decir lo entenderé.
+SAY.F1.103.Naomi,,"Arritmia, nada de que preocuparse."
+SAY.F1.102.Hotaru,,"Mh, okay"
+SAY.F1.101.Naomi,,No me tengas lástima.
+SAY.F1.106.Hotaru,,No es lástima.
+SAY.F1.105.Naomi,,¿Y por qué estabas en el hospital el otro día?
+SAY.F1.104.Naomi,,Prefiero no hablar sobre eso.
 SAY.F1.79.,,Yuna me llamaba desde la puerta del aula.
 SAY.F1.82.,,Me despedí de Hotaru y me acerqué a ella
-SAY._CommandCopyBuffer.68.,,No me abandones
+SAY.F1.107.Yuna,,¿De donde lo conoces?
+SAY.F1.112.Naomi,,No empieces.
+SAY.F1.111.Yuna,,Es simple curiosidad.
+SAY.F1.110.Naomi,,Lo conocí en el hospital.
+SAY.F1.109.Yuna,,¿Por qué estaba él?
+SAY.F1.108.Naomi,,No sé.
 CHARACTER.Hotaru,,Hotaru
 CHARACTER.Madre,,Madre
 CHARACTER.Naomi,,Naomi
