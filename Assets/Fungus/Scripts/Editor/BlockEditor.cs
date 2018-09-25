@@ -167,7 +167,7 @@ namespace Fungus.EditorUtils
 
                 // EventType.contextClick doesn't register since we moved the Block Editor to be inside
                 // a GUI Area, no idea why. As a workaround we just check for right click instead.
-                if (Event.current.type == EventType.mouseUp &&
+                if (Event.current.type == EventType.MouseUp &&
                     Event.current.button == 1)
                 {
                     ShowContextMenu();
@@ -290,7 +290,7 @@ namespace Fungus.EditorUtils
 
 
             //handle movement along our selection grid before something else eats our inputs
-            if (Event.current.type == EventType.keyDown)
+            if (Event.current.type == EventType.KeyDown)
             {
                 //up down to change selection / esc to clear field
                 if (Event.current.keyCode == KeyCode.UpArrow)
@@ -315,14 +315,14 @@ namespace Fungus.EditorUtils
             }
 
             // Previous Command
-            if ((Event.current.type == EventType.keyDown) && (Event.current.keyCode == KeyCode.PageUp))
+            if ((Event.current.type == EventType.KeyDown) && (Event.current.keyCode == KeyCode.PageUp))
             {
                 SelectPrevious();
                 GUI.FocusControl("dummycontrol");
                 Event.current.Use();
             }
             // Next Command
-            if ((Event.current.type == EventType.keyDown) && (Event.current.keyCode == KeyCode.PageDown))
+            if ((Event.current.type == EventType.KeyDown) && (Event.current.keyCode == KeyCode.PageDown))
             {
                 SelectNext();
                 GUI.FocusControl("dummycontrol");
@@ -607,7 +607,7 @@ namespace Fungus.EditorUtils
             Block[] blocks = flowchart.GetComponents<Block>();
             for (int i = 0; i < blocks.Length; ++i)
             {
-                blockNames.Add(new GUIContent(blocks[i].name));
+				blockNames.Add(new GUIContent(blocks[i].BlockName));
 
                 if (block == blocks[i])
                 {
@@ -725,8 +725,8 @@ namespace Fungus.EditorUtils
                     EventHandlerInfoAttribute info = EventHandlerEditor.GetEventHandlerInfo(type);
 
                     if (info != null &&
-                        info.Category == category ||
-                        info.Category == "" && category == "Core")
+                        (info.Category == category ||
+                         (info.Category == "" && category == "Core")))
                     {
                         markdown += "# " + info.EventHandlerName + " # {#" + info.EventHandlerName.Replace(" ", "") + "}\n";
                         markdown += info.HelpText + "\n\n";
